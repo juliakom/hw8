@@ -92,13 +92,13 @@ logIt();
 //undefined
 //потому что переменная назначена вне области функции
 
-function logIt(){
-  var text = 'outside';
-  console.log(text);
-  text = 'inside';
-  console.log(text);
-};
-logIt();
+// function logIt(){
+//   var text = 'outside';
+//   console.log(text);
+//   text = 'inside';
+//   console.log(text);
+// };
+// logIt();
 
 
 
